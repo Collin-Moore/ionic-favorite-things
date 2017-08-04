@@ -11,4 +11,7 @@ export class HomePage {
 
   }
 
+  setColor(selectedColor: string): void {
+    console.log('TODO: set color:', selectedColor);
+  }
 }
